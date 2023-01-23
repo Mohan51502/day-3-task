@@ -1,0 +1,44 @@
+1.json itration for in loop
+      var student={
+      "name":"mohan",
+      "degree":"be",
+      "age":"22",
+      "job":"searching"
+      };
+for(var a in student){
+console.log(student[a]);
+}
+
+2.own resume in json format
+   
+           var student={
+      "name":"MOHANRAJ",
+      "college name":"Dr.Mahalingam college of engineering and technology",
+      "degree":"BE",
+      "branch":"automobile",
+      "project":"Design and analysis of cam shaft",
+      "extra curricular":"nss",
+      "hsc":"Oxford matric hr sec school",
+      "hsc mark":"1021",
+      "sslc":"Oxford matric hr sec school",
+      "sslc mark":"458",
+      "age":"22",
+      "birthyear ":"2000",
+      "fathers name":"venkatachalam",
+      "fathers occupation":"farmer",
+      "mothers name":"Devi",
+      "mothers occupation":"house wife",
+}
+console.log(student);
+
+3.Difference between windows and document
+       
+
+  Windows:
+        windows is a viewing screen on the computer.It was published by microsoft.windows containing more features like back button,forward button,
+reload option,search bar,etc.It may also contain a certain designs for the logo.windows also containing features like active directory where we can give the permission
+to the other computer to acess files.some files are not supported by lower windows edition.It contain several parts like document and etc.
+  Document:
+         Document is the part of the windows.It contain the topics or the solution for the question which we are searching.some document can be editted by the user.
+Document can be public or private.public document can be viewed by anyone.private document can be viewed by users those who having access or password.Document
+is the most widly used part in windows.
